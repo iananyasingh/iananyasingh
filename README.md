@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 
 Heya! I'm Ananya Singh, a student currently living in Mumbai, India. 
 I'm currently pursuing MCA from TIMSCDR, Mumbai.
-I'm also the co-founder of a debelopment team named 'Anacky'.
 I am actively looking for a tech job as well.
 
 <br>
